@@ -1,6 +1,6 @@
-<button type="button" onclick="window.location.href='https://b2211590.github.io/kaitaishinsho/command/form'">form</button>
+<!-- <button type="button" onclick="window.location.href='https://b2211590.github.io/kaitaishinsho/command/form'">form</button>
 
-<button type="button" onclick="window.location.href='https://b2211590.github.io/kaitaishinsho/command/www_attention'">www.py の編集で気をつけること</button>
+<button type="button" onclick="window.location.href='https://b2211590.github.io/kaitaishinsho/command/www_attention'">www.py の編集で気をつけること</button> -->
 
 # nano
 Nanoはテキストエディタであり、viと異なりモード変更は使用せず、ctrl+αで操作を行う。
